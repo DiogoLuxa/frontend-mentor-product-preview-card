@@ -6,6 +6,7 @@ This is a solution to the [Product preview card component challenge on Frontend 
 
 - [Overview](#overview)
   - [The challenge](#the-challenge)
+  - [Screenshot](#screenshot)
   - [Links](#links)
 - [My process](#my-process)
   - [Built with](#built-with)
@@ -27,10 +28,14 @@ Users should be able to:
 
 The card stacks the product photo above the copy on smaller screens, then switches to a two-column layout on wider viewports. The **Add to Cart** button has a darker green on hover and a visible outline on keyboard focus.
 
+### Screenshot
+
+![Desktop preview of the Gabrielle Essence product card](./screenshot.png)
+
 ### Links
 
-- Solution URL: to be added after the repository is published
-- Live Site URL: to be added after the site is deployed
+- [Solution URL](https://www.frontendmentor.io/solutions/product-preview-card-component-gznAd491vU)
+- [Live Site URL](https://diogoluxa.github.io/frontend-mentor-product-preview-card/)
 
 ## My process
 
